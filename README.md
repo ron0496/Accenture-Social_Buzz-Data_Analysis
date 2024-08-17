@@ -67,8 +67,7 @@ I prepared a PowerPoint presentation using the given template, incorporating var
 
 This presentation was designed to effectively communicate the key insights from my analysis.
 
-Task PPT - [Click Here]
-[Presentation.pptx](https://github.com/user-attachments/files/16645707/Presentation.pptx)
+Task PPT - [Click here](https://github.com/user-attachments/files/16645707/Presentation.pptx)
 
 # Task 4 - Client Presentation
 I presented my PowerPoint to the client, delivering insights and recommendations based on my analysis.
